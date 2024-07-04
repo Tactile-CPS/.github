@@ -20,4 +20,4 @@ between physical and virtual worlds for applications requiring ultra-reliable lo
 
 ### Advisors
   * Chandramani Singh - Associate Professor
-  * T V Prabhakar - Principal Research Scientist
+  * T V Prabhakar - Chief Research Scientist
