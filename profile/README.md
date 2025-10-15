@@ -1,5 +1,5 @@
 👋 Hi, Welcome to <a href="https://labs.dese.iisc.ac.in/zenlab/ongoing-projects/tsn/" target="_blank">
-<img src="media\ZENLab_Logo.png" width=60 alt=ZENLab-TCPS />
+<img src="../media/ZENLab_Logo.png" width=60 alt=ZENLab-TCPS />
 </a> TCPS team, Indian Institute of Science (IISc), Bangalore, India. 
 
 ## 🎯 Objective
